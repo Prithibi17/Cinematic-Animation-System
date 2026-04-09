@@ -3,6 +3,7 @@
 A proprietary, high-fidelity UI animation library showcasing **66+ original, never-before-seen animations** engineered from physical, quantum, and cosmological principles. This collection moves beyond traditional web transitions, introducing complex concepts like quantum collapse, tidal morphology, event horizons, and more into pure web interfaces.
 
 ![Cinematic Animation System](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) ![Tech-Stack](https://img.shields.io/badge/Tech_Stack-HTML5_+_CSS3_+_JS-blue?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Now-FF0000?style=for-the-badge&logo=youtube)](https://prithibi17.github.io/Cinematic-Animation-System/Cinematic%20Animation%20System.html)
 
 ## 🌟 Key Features
 
